@@ -8,6 +8,7 @@ Kebutuhan
 - Requests
 - Selenium
 - MySql
+- dan lain lain
 
 Credits
 - Rizal 
