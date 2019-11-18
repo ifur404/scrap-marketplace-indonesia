@@ -1,6 +1,6 @@
 # scrap-marketplace-indonesia
 
-ini project iseng belajar python 04-03-2019.
+ini project belajar python 04-03-2019. kalau error ya maaf
 
 Kebutuhan 
 - Python 3
@@ -9,5 +9,7 @@ Kebutuhan
 - Selenium
 - MySql
 
-Credit 
+Credits
 - Rizal 
+
+ahmadsaepurramdan@gmail.com
